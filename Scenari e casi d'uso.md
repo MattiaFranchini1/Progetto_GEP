@@ -1,4 +1,5 @@
 1. Autenticazione e Autorizzazione:
+   > Attori: Utente, Sistema.
   - Casi d'Uso Positivi:
     - Registrazione dell'Utente:
       L'utente si registra con successo utilizzando l'account istituzionale.
@@ -12,6 +13,7 @@
       L'utente inserisce credenziali errate e riceve un messaggio di errore.
 
 2. Creazione e Gestione delle Stanze:
+   > Attori: Utente, Sistema.
   - Casi d'Uso Positivi:
     - Creazione di una Nuova Stanza:
       L'utente crea una nuova stanza specificando il nome della materia, il grado e l'host con successo.
@@ -26,6 +28,7 @@
       Un utente non autorizzato tenta di eliminare una stanza e riceve un messaggio di errore.
 
 3. Chat all'interno delle Stanze:
+   > Attori: Utenti, Sistema.
   - Casi d'Uso Positivi:
     - Invio di Messaggi nella Chat:
       Gli utenti scambiano messaggi nella chat della stanza con successo.
@@ -38,6 +41,7 @@
       Un utente tenta di eliminare il messaggio di un altro utente e riceve un messaggio di errore.
 
 4. Condivisione di File:
+   > Attori: Utente, Sistema.
   - Casi d'Uso Positivi:
     - Caricamento e Condivisione di File:
       L'utente carica un file nella stanza e gli altri utenti possono visualizzarlo e scaricarlo.
@@ -50,6 +54,7 @@
       Un utente tenta di eliminare un file condiviso di un altro utente e riceve un messaggio di errore.
 
 5. Gestione degli Utenti:
+   > Attori: Proprietario della Stanza, Utente Espulso, Sistema.
   - Casi d'Uso Positivi:
     - Espulsione di un Partecipante:
       Il proprietario espelle un partecipante dalla stanza con successo.
@@ -62,6 +67,7 @@
       Un utente tenta di abbandonare una stanza in cui è il proprietario e riceve un messaggio di errore.
 
 6. Notifiche:
+   > Attori: Utente, Sistema.
   - Casi d'Uso Positivi:
     - Ricezione di Notifiche:
       Gli utenti ricevono notifiche in tempo reale per nuovi messaggi e altre attività rilevanti.
