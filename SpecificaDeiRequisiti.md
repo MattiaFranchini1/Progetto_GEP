@@ -3,14 +3,14 @@ Analisi del problema: Quale problema risolve la mia web app? Il problema che dev
 Specifica dei requisiti (SRS)
 Elenco delle funzionalità:
 
-1. Autenticazione e Autorizzazione: <font style="color:red">Requisito funzionale</font>
+1. Autenticazione e Autorizzazione: --- Requisito Funzionale ---
    - Registrazione degli utenti tramite l'account istituzionale.
    - Login e logout degli utenti.
    - Gestione delle autorizzazioni per garantire che solo gli utenti registrati possano accedere alle funzionalità dell'applicazione.
   
 
   
-2. Creazione e Gestione delle Stanze: <span style="color:red">Requisito funzionale</span>
+2. Creazione e Gestione delle Stanze: --- Requisito Funzionale ---
    - Creazione di una nuova stanza di studio.
    - Specifica di un host per la stanza.
    - Assegnazione di un nome univoco, materia scolastica, e classe alla stanza.
@@ -19,59 +19,59 @@ Elenco delle funzionalità:
   
 
 
-3. Chat all'interno delle Stanze: <span style="color:red">Requisito funzionale</span>
+3. Chat all'interno delle Stanze: --- Requisito Funzionale ---
    - Possibilità per i partecipanti di inviare messaggi nella chat della stanza.
    - Opzione di eliminare i messaggi inviati (possibilmente solo per il mittente o il proprietario).
    - Notifiche per i nuovi messaggi nella chat.
 
 
   
-4. Condivisione di File: <span style="color:red">Requisito funzionale</span>
+4. Condivisione di File: --- Requisito Funzionale ---
    - Caricamento e condivisione di file all'interno delle stanze.
    - Visualizzazione e download dei file condivisi.
    - Possibilità di eliminare i file condivisi (possibilmente solo per il mittente o il proprietario).
 
 
 
-5. Gestione degli Utenti: <span style="color:red">Requisito funzionale</span>
+5. Gestione degli Utenti: --- Requisito Funzionale ---
    - Visualizzazione del profilo degli utenti, comprese le informazioni personali e le stanze a cui partecipano.
    - Possibilità per i proprietari di espellere i partecipanti da una stanza.
    - Possibilità per gli utenti di abbandonare una stanza.
 
 
 
-6. Notifiche: <span style="color:red">Requisito funzionale</span>
+6. Notifiche: --- Requisito Funzionale ---
    - Notifiche in tempo reale per nuovi messaggi, inviti alle stanze, e altre attività rilevanti.
 
 
      
-7. Sicurezza:
+7. Sicurezza: --- Requisito Non Funzionale ---
    - Sicurezza per proteggere i dati degli utenti e prevenire l'accesso non autorizzato.
    - Gestione delle sessioni utente e controllo degli accessi.
 
 
 
-8. Interfaccia Utente Intuitiva:
+8. Interfaccia Utente Intuitiva: --- Requisito Non Funzionale ---
    - Creazione di un'interfaccia utente intuitiva e user-friendly per facilitare la navigazione e l'utilizzo dell'applicazione.
   
 
      
-9. Ricerca e Filtri:
+9. Ricerca e Filtri: --- Requisito Non Funzionale ---
     - Funzionalità di ricerca per trovare stanze di studio specifiche o utenti.
     - Filtri per ordinare o visualizzare le stanze in base a criteri come materia scolastica, classe, ecc.
 
 
 
-11. Statistiche e Monitoraggio:
+11. Statistiche e Monitoraggio: --- Requisito Non Funzionale ---
     - Statistiche sulla frequenza e l'attività degli utenti nelle stanze.
     - Monitoraggio delle prestazioni del sistema per garantire una buona esperienza agli utenti.
    
 
       
-11. Assistenza e Supporto:
+11. Assistenza e Supporto: --- Requisito di Dominio ---
     - Meccanismi per fornire assistenza agli utenti, come la segnalazione di problemi o la richiesta di aiuto.
 
    
       
-12. Privacy e Conformità:
+12. Privacy e Conformità: --- Requisito di Dominio ---
     - Gestione della privacy e conformità alle leggi sulla protezione dei dati, inclusa la gestione dei dati personali degli utenti.
