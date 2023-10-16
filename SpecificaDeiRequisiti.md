@@ -3,7 +3,7 @@ Analisi del problema: Quale problema risolve la mia web app? Il problema che dev
 Specifica dei requisiti (SRS)
 Elenco delle funzionalità:
 
-1. Autenticazione e Autorizzazione: <span style="color:red">Requisito funzionale</span>
+1. Autenticazione e Autorizzazione: <font style="color:red">Requisito funzionale</font>
    - Registrazione degli utenti tramite l'account istituzionale.
    - Login e logout degli utenti.
    - Gestione delle autorizzazioni per garantire che solo gli utenti registrati possano accedere alle funzionalità dell'applicazione.
