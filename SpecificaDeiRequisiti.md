@@ -3,14 +3,14 @@ Analisi del problema: Quale problema risolve la mia web app? Il problema che dev
 Specifica dei requisiti (SRS)
 Elenco delle funzionalità:
 
-1. Autenticazione e Autorizzazione:
+1. Autenticazione e Autorizzazione: <span style="color:red">Requisito funzionale</span>
    - Registrazione degli utenti tramite l'account istituzionale.
    - Login e logout degli utenti.
    - Gestione delle autorizzazioni per garantire che solo gli utenti registrati possano accedere alle funzionalità dell'applicazione.
   
 
   
-2. Creazione e Gestione delle Stanze:
+2. Creazione e Gestione delle Stanze: <span style="color:red">Requisito funzionale</span>
    - Creazione di una nuova stanza di studio.
    - Specifica di un host per la stanza.
    - Assegnazione di un nome univoco, materia scolastica, e classe alla stanza.
@@ -19,28 +19,28 @@ Elenco delle funzionalità:
   
 
 
-3. Chat all'interno delle Stanze:
+3. Chat all'interno delle Stanze: <span style="color:red">Requisito funzionale</span>
    - Possibilità per i partecipanti di inviare messaggi nella chat della stanza.
    - Opzione di eliminare i messaggi inviati (possibilmente solo per il mittente o il proprietario).
    - Notifiche per i nuovi messaggi nella chat.
 
 
   
-4. Condivisione di File:
+4. Condivisione di File: <span style="color:red">Requisito funzionale</span>
    - Caricamento e condivisione di file all'interno delle stanze.
    - Visualizzazione e download dei file condivisi.
    - Possibilità di eliminare i file condivisi (possibilmente solo per il mittente o il proprietario).
 
 
 
-5. Gestione degli Utenti:
+5. Gestione degli Utenti: <span style="color:red">Requisito funzionale</span>
    - Visualizzazione del profilo degli utenti, comprese le informazioni personali e le stanze a cui partecipano.
    - Possibilità per i proprietari di espellere i partecipanti da una stanza.
    - Possibilità per gli utenti di abbandonare una stanza.
 
 
 
-6. Notifiche:
+6. Notifiche: <span style="color:red">Requisito funzionale</span>
    - Notifiche in tempo reale per nuovi messaggi, inviti alle stanze, e altre attività rilevanti.
 
 
