@@ -4,3 +4,5 @@ PARAGRAFO (DIFFERENZE DAI CONCORRENTI E BENEFICI)  ---->     Studio Amico è la 
 
 
 VISUAL    ---->
+
+![_868e1fb0-503f-4849-b636-634ed8423148](https://github.com/MattiaFranchini1/Progetto_GEP/assets/101174838/c523f2d5-b869-4587-aa2f-899ad0be90eb)
