@@ -1,2 +1,5 @@
 // Github ignore all configuration files
 *.env
+
+// ignore auto-generated files
+node_modules
