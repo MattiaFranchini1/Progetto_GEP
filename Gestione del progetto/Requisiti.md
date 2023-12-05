@@ -1,5 +1,5 @@
 1. Autenticazione e Autorizzazione:
-   > Attori: Utente, Sistema
+   > Attori: Utente, Sistema.
   - Casi d'Uso Positivi:
     - Registrazione dell'Utente:
       L'utente si registra con successo utilizzando l'account istituzionale.
