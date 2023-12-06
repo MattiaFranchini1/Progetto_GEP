@@ -11,13 +11,13 @@ app.use(cors());
 app.use(express.json());
 
 
-// import db function from ./db/conn.js
-//const dbo = require("./db/conn");
+// import db function from ./models/connection.js
+const dbo = require("./models/connection.js");
  
 app.listen(port, () => {
-  /*dbo.connectToServer(function (err) {
+  dbo.connectToServer(function (err) {
     if (err) console.error(err);
- 
-  });*/
+    console.log('Connected to database')
+  });
   console.log(`Server is running on port: ${port}`);
 });
