@@ -139,3 +139,6 @@ La maggiore funzionalità che abbiamo deciso di implementare è:
 14. Poter visualizzare consigli personalizzati riguardo la lettura di libri riguardanti gli argomenti trattati da ogni utente e/o link a corsi online gratuiti --- Requisito Funzionale ---
 
 Per fare si che questa funzionalità venga esaudita, ci avvaliamo di un software di AI da noi creato per "studiare i profili degli utenti" e dare consigli mirati e personalizzati.
+
+
+Sempre per "migliorare" la nostra posizione all'interno del mercato, abbiamo deciso di accentuare il concetto di MULTITENANCY: la nostra web app, non è rivolta solo ad un instituto scolastico, ma è rivolta (potenzialmente) a tutte le scuole italiane e non solo, anche a quelle europee e di tutto il mondo. Il "software di base" (le funzionalità presenti) è lo stesso per tutte le scuole, ma ogni scuola ha una personalizzazione che riguarda, per esempio le materie, il piano di studi, i corsi, e tutte le eventuali richieste di personalizzazione che ci vengono fatte.
