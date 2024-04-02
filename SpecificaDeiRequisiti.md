@@ -118,3 +118,24 @@ Primo ciclo di Scrum (2 settimane) - Calcolando un lavoro di circa 40 ore per se
 - Come utente non partecipante, voglio ricevere un messaggio di errore se tento di inviare un messaggio nella chat di una stanza. (5 ore)
 - Come utente, voglio ricevere un messaggio di errore se tento di eliminare il messaggio di un altro utente. (5 ore)
 
+MODELLO DI BUSINESS
+
+Modello di Abbonamento Istituzionale:
+- Le istituzioni sottoscrivono un abbonamento per l'utilizzo di Studio Amico su larga scala.
+- Il pagamento può essere basato su un canone mensile o annuale.
+
+Licenza d'Uso Istituzionale:
+- Le istituzioni acquistano licenze d'uso per Studio Amico, ottenendo il diritto permanente di utilizzare il software.
+- Il pagamento si basa su una cifra periodica in base al numero di utenti o ad altri fattori concordati.
+
+
+
+STARTUP PIVOT
+
+Il mercato non ha reagito come ci eravamo aspettati quando abbiamo lanciato la nostra applicazione. 
+Per questp motivo abbiamo deciso di aggiungere delle funzionalità aggiuntive che rendono la nostra applicazione "unica" e "differente" dalla concorrenza.
+La maggiore funzionalità che abbiamo deciso di implementare è:
+
+14. Poter visualizzare consigli personalizzati riguardo la lettura di libri riguardanti gli argomenti trattati da ogni utente e/o link a corsi online gratuiti --- Requisito Funzionale ---
+
+Per fare si che questa funzionalità venga esaudita, ci avvaliamo di un software di AI da noi creato per "studiare i profili degli utenti" e dare consigli mirati e personalizzati.
